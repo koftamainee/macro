@@ -5,7 +5,6 @@ A simple text editor written in C.
 - make
 - gcc
 - clang (optional)
-- 
 ## Compiling
 ### Linux / MacOS / Windows
 ```
