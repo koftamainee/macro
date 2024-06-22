@@ -5,7 +5,18 @@ A simple text editor written in C.
 ## Compiling
 ### Linux / MacOS / Windows
 ```
-make macro       # comple to build dir
-make run         # compile and run
-make clean       # cleaning build dir
+make macro           # Comple to build dir
+make run             # Compile and run
+make clean           # Cleaning build dir
+```
+## Usage
+### Linux /MacOS
+```
+./macro               # Create a new file
+./macro filename.txt  # Open filename.txt
+```
+### Windows
+```
+./macro.exe              # Create a new file
+./macro.exe filename.txt  # Open filename.txt
 ```
