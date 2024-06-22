@@ -6,7 +6,7 @@ A simple text editor written in C.
 - gcc
 - clang (optional)
 ## Compiling
-### Linux / MacOS / Windows
+### Linux / MacOS
 ```
 make macro                 # Comple to build dir
 make run                   # Compile and run
@@ -19,7 +19,4 @@ make clean                 # Cleaning build dir
 ./macro filename.txt       # Open filename.txt
 ```
 ### Windows
-```
-./macro.exe               # Create a new file
-./macro.exe filename.txt  # Open filename.txt
-```
+maybe later
