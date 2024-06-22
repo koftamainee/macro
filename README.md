@@ -2,7 +2,10 @@
 
 A simple text editor written in C.
 ## Dependencies
-make, gcc, clang (optional)
+- make
+- gcc
+- clang (optional)
+- 
 ## Compiling
 ### Linux / MacOS / Windows
 ```
