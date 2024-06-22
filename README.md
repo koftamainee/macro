@@ -8,9 +8,9 @@ A simple text editor written in C.
 ## Compiling
 ### Linux / MacOS / Windows
 ```
-make macro           # Comple to build dir
-make run             # Compile and run
-make clean           # Cleaning build dir
+make macro                 # Comple to build dir
+make run                   # Compile and run
+make clean                 # Cleaning build dir
 ```
 ## Usage
 ### Linux / MacOS
